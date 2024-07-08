@@ -3,6 +3,8 @@
 # ![app icon](./.github/readme-images/app-icon.png)TachiyomiSY + Auto Translations
 TachiyomiSY is a free and open source manga reader for Android 6.0 and above. This version of TachiyomiSY, has a feature to automaticaly translate chapters on download
 
+This Projeect has been shifted to ![TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
+
 ## Features
 * All this Features of Original Mihon
 * All this Features of TachiyomiSY
